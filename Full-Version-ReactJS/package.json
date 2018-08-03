@@ -141,7 +141,7 @@
     "react-dates": "^12.3.0",
     "react-dnd": "^2.4.0",
     "react-dnd-html5-backend": "^2.4.1",
-    "react-dom": "^15.0.0",
+    "react-dom": "^16.0.1",
     "react-draft-wysiwyg": "^1.10.7",
     "react-dropzone": "^3.13.3",
     "react-dual-listbox": "^1.1.0",
